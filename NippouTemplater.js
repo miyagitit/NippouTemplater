@@ -1,0 +1,1 @@
+javascript:(async()=>{eval(await(await fetch('https://gist.githubusercontent.com/miyagitit/c366b039e684d6f08bcd7dfd884fa8ca/raw/NippouTemplater.js')).text())})();
